@@ -54,3 +54,7 @@ C:\CodeBase\DOTNET\commander\bin\Debug\netcoreapp3.1\System.Collections.Immutabl
 C:\CodeBase\DOTNET\commander\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\CodeBase\DOTNET\commander\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\CodeBase\DOTNET\commander\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\CodeBase\DOTNET\commander\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\CodeBase\DOTNET\commander\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\CodeBase\DOTNET\commander\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\CodeBase\DOTNET\commander\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
